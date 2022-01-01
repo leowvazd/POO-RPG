@@ -1,0 +1,16 @@
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\POO-RPG.exe
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\POO-RPG.deps.json
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\POO-RPG.runtimeconfig.json
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\POO-RPG.runtimeconfig.dev.json
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\POO-RPG.dll
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\ref\POO-RPG.dll
+C:\Users\vazle\Documents\GitClone\POO-RPG\bin\Debug\net5.0\POO-RPG.pdb
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.csproj.AssemblyReference.cache
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.AssemblyInfoInputs.cache
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.AssemblyInfo.cs
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.csproj.CoreCompileInputs.cache
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.dll
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\ref\POO-RPG.dll
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.pdb
+C:\Users\vazle\Documents\GitClone\POO-RPG\obj\Debug\net5.0\POO-RPG.genruntimeconfig.cache
